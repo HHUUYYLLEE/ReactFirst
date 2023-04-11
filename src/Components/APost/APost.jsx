@@ -17,6 +17,10 @@ export default function APost() {
         <hr />
         <span className='postDate'>An hour ago</span>
       </div>
+      <p className='postDescription'>
+        Post descriptionPost descriptionPost descriptionPost descriptionPost descriptionPost descriptionPost
+        descriptionPost descriptionPost descriptionPost descriptionPost descriptionPost descriptionPost description
+      </p>
     </div>
   )
 }
