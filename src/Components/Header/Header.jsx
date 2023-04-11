@@ -3,16 +3,12 @@ import './Header.css'
 
 export default function Header() {
   return (
-    <div className='Header'>
-      <div className='headerTitles'>
+    <div className='header'>
+      <div className='headerTitle'>
         <span className='headerTitleSmall'>React</span>
         <span className='headerTitleBig'>Blog</span>
       </div>
-      <img
-        className='headerImg'
-        src='https://archives.bulbagarden.net/media/upload/thumb/0/00/Bag_Pok%C3%A9_Ball_SV_Sprite.png/60px-Bag_Pok%C3%A9_Ball_SV_Sprite.png'
-        alt=''
-      />
+      <img className='headerImg' src='https://wallpaperaccess.com/full/1379508.jpg' alt='' />
     </div>
   )
 }
