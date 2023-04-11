@@ -11,10 +11,11 @@ export default function Sidebar() {
         />
         <p>whatever it is</p>
       </div>
-      <div className='sidebarItem'>Categories</div>
+      <div className='sidebarTitle'>Categories</div>
       <ul className='sidebarList'>
         <li className='sidebarListItem'>Life</li>
         <li className='sidebarListItem'>Music</li>
+        <li className='sidebarListItem'>Game</li>
       </ul>
       <div className='sidebarItem'>Follow</div>
       <div className='sidebarSocial'>
