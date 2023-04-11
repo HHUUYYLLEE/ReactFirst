@@ -5,7 +5,7 @@ export default function Write() {
     <div className='write'>
       <img
         className='writeImg'
-        src='https://archives.bulbagarden.net/media/upload/thumb/a/a6/Bag_Master_Ball_SV_Sprite.png/60px-Bag_Master_Ball_SV_Sprite.png'
+        src='https://images.unsplash.com/photo-1501999635878-71cb5379c2d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80'
         alt=''
       />
       <form className='writeForm'>

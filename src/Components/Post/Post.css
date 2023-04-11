@@ -8,6 +8,7 @@
   height: 280px;
   object-fit: cover;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .postInfo {
@@ -32,13 +33,14 @@
   font-weight: 700;
   margin-top: 15px;
   cursor: pointer;
+  text-align: center;
 }
 
 .postDate {
   font-family: 'Lora', serif;
   font-style: italic;
   font-size: 13px;
-  color: chartreuse;
+  color: blue;
   margin-top: 15px;
 }
 

@@ -1,15 +1,15 @@
 import React from 'react'
 import './PostsList.css'
-import Post from '../Post/Post'
+import { Post1, Post2, Post3, Post4, Post5, Post6 } from '../Post/Post'
 export default function Posts() {
   return (
     <div className='postsList'>
-      <Post />
-      <Post />
-      <Post />
-      <Post />
-      <Post />
-      <Post />
+      <Post1 />
+      <Post2 />
+      <Post3 />
+      <Post4 />
+      <Post5 />
+      <Post6 />
     </div>
   )
 }

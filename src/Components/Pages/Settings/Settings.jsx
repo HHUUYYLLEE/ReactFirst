@@ -1,6 +1,7 @@
 import React from 'react'
 import './Settings.css'
 import Sidebar from '../../Sidebar/Sidebar'
+import img from '../../../Asset/htz.png'
 export default function Settings() {
   return (
     <div className='settings'>
@@ -12,10 +13,7 @@ export default function Settings() {
         <form className='settingsForm'>
           <label>Profile pic</label>
           <div className='settingsPrfPic'>
-            <img
-              src='https://archives.bulbagarden.net/media/upload/thumb/f/fb/0001Bulbasaur.png/180px-0001Bulbasaur.png'
-              alt=''
-            />
+            <img src={img} alt='' />
             <label htmlFor='fileInput'>
               <i className='settingsPrfPicIcon fa-regular fa-circle-user'></i>
             </label>
