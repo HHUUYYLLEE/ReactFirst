@@ -1,8 +1,8 @@
 import React from 'react'
-import './APost.css'
-export default function APost() {
+import './Post.css'
+export default function Post() {
   return (
-    <div className='aPost'>
+    <div className='post'>
       <img
         className='postImg'
         src='https://archives.bulbagarden.net/media/upload/thumb/5/54/Bag_Great_Ball_SV_Sprite.png/60px-Bag_Great_Ball_SV_Sprite.png'

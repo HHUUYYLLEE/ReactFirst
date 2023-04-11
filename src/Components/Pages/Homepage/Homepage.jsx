@@ -1,15 +1,15 @@
 import React from 'react'
 import './Homepage.css'
 import Header from '../../Header/Header'
-import Posts from '../../Posts/Posts'
 import Sidebar from '../../Sidebar/Sidebar'
+import PostsList from '../../Posts list/PostsList'
 
 export default function Homepage() {
   return (
     <>
       <Header />
       <div className='homepage'>
-        <Posts />
+        <PostsList />
         <Sidebar />
       </div>
     </>

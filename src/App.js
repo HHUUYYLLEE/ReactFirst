@@ -1,12 +1,12 @@
 import TopBar from './Components/TopBar/TopBar'
 import logo from './logo.svg'
-import Homepage from './Components/Pages/Homepage/Homepage'
+import BottomPart from './Components/Pages/BottomPart/BottomPart'
 
 function App() {
   return (
     <>
       <TopBar />
-      <Homepage />
+      <BottomPart />
     </>
   )
 }
