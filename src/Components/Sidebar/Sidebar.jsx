@@ -9,7 +9,7 @@ export default function Sidebar() {
           src='https://archives.bulbagarden.net/media/upload/thumb/0/00/Bag_Pok%C3%A9_Ball_SV_Sprite.png/60px-Bag_Pok%C3%A9_Ball_SV_Sprite.png'
           alt=''
         />
-        <p className='sidebarDescription'>ポケモンを つかまえるための どうぐ</p>
+        <p className='sidebarDescription'>ポケモンをつかまえるためのどうぐ</p>
       </div>
       <div className='sidebarTitle'>カテゴリー</div>
       <ul className='sidebarList'>
