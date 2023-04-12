@@ -10,8 +10,12 @@ a {
   display: flex;
   align-items: center;
   font-family: 'Josefin Sans', sans-serif;
-  background-color: white;
+  background-color: #f9f86c;
   z-index: 999;
+}
+.top:hover {
+  background-color: white;
+  transition: 0.7s;
 }
 .topIcon {
   font-size: 30px;
